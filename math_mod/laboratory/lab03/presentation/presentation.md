@@ -1,12 +1,12 @@
 ---
 ## Front matter
 lang: ru-RU
-title: Презентация по первой лабораторной. Предмет - Математическое моделирование.
+title: Презентация по третьей лабораторной. Предмет - Математическое моделирование.
 author: |
 	Попов Олег Павлович\inst{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
-date: 2021, 18 Февраля -- 20 Февраля
+date: 2021, 23 Февраля -- 27 Февраля
 
 ## Formatting
 toc: false
@@ -23,6 +23,7 @@ mainfont: DejaVuSerif
 romanfont: DejaVuSerif
 sansfont: DejaVuSans
 monofont: DejaVuSansMono
+fontsize: 10pt
 ---
 
 # Модель ведения боевых действий
