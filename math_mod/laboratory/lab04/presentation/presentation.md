@@ -6,7 +6,7 @@ author: |
 	Попов Олег Павлович\inst{1}
 institute: |
 	\inst{1}RUDN University, Moscow, Russian Federation
-date: 2021, 23 Февраля -- 27 Февраля
+date: 2021, 4 Марта -- 6 Марта
 
 ## Formatting
 toc: false
